@@ -5,6 +5,7 @@ public class HotFix {
         System.out.println("hotfixing");
         System.out.println("master1");
         System.out.println("hotfix1");
-
+        System.out.println("能行不");
+        System.out.println("jhahahhah");
     }
 }
